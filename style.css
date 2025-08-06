@@ -789,7 +789,7 @@ h2 {
     } */
 
     .contentofproduct {
-        padding: 0;
+        padding: 10px;
     }
 
     .contentofproduct p {
@@ -804,6 +804,12 @@ h2 {
         display: grid;
         grid-template-columns: 1fr
             /* grid-gap: 10px; */
+
+    }
+        .product .btn {
+        width: 90px;
+        height: 35px;
+        font-size: 10px;
 
     }
 
